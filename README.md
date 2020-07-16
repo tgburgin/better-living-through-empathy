@@ -3,8 +3,10 @@ When it comes to interactions with people, but especially young children, phrasi
 
 Showing empathy towards the person also allows a greater connection to grow between you both, further encouraging the relationship to improve.
 
-[Positive to Negative Map](positive-to-negative.md) 
-A list of phrases we can use to speak more positively to one another without changing the message.
+[Positive to Negative Map](positive-to-negative.md)
 
-[The Library](library.md) 
-A list of useful websites to further your research on positive interactions.
+A list of phrases we can use to speak more positively to one another without changing the message. 
+
+[The Library](library.md)
+
+A list of useful websites to further your research on positive interactions. 
