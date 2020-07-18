@@ -1,3 +1,7 @@
+# Negative to Positive
+
+Many interactions can result in a better outcome if the words you use are positive rather than negative.  
+
 Negative | to | Positive
 :--| :-- | :--
 No running | &rarr; | Walk, please

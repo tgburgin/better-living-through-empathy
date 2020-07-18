@@ -3,9 +3,9 @@ When it comes to interactions with people, but especially young children, phrasi
 
 Showing empathy towards the person also allows a greater connection to grow between you both, further encouraging the relationship to improve.
 
-- [Equality](docs/equality.md)
-  - A list of websites to further your knowledge on equality and tolerance.
-- [Library](docs/library.md)
-  - A list of websites to further your research on positive interactions. 
-- [Positive to Negative Map](docs/positive-to-negative.md)
-  - A list of phrases we can use to speak more positively to one another without changing the message. 
+[Equality](docs/equality.md)  
+A list of websites to further your knowledge on equality and tolerance.  
+[Library](docs/library.md)  
+A list of websites to further your research on positive interactions.  
+[Negative to Positive](docs/negative-to-positive.md)  
+A list of phrases we can use to speak more positively to one another without changing the message.  
