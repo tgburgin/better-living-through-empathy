@@ -9,15 +9,16 @@
 
 ## Pronouns
 We live in a non-binary society.
-- https://www.mypronouns.org/
+- [mypronouns.org](https://www.mypronouns.org/)
 
 ## Religion
 We live in a multi-religious society.
-- http://www.religioustolerance.org/
+- [Religious Tolerance](http://www.religioustolerance.org/)
 
 Religion should not be an advantage nor a disadvantage.
-- https://www.secularism.org.uk/
+- [National Secular Society](https://www.secularism.org.uk/)
 
 ## Sex and Sexuality
 We live in a society where any person can love any other person or persons.
-- https://www.amnesty.org/en/what-we-do/discrimination/lgbt-rights/
+- [Amnesty International - LGBT Rights](https://www.amnesty.org/en/what-we-do/discrimination/lgbt-rights/)
+- [Sexual Rights Initiative](https://sexualrightsinitiative.com/)
