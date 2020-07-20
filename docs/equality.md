@@ -7,7 +7,7 @@
 
 [Amnesty International](https://www.amnesty.org/)  
 [Equality and Human Rights Commission](https://equalityhumanrights.com/)  
-[Teaching Tolerance](https://www.tolerance.org/)
+[Teaching Tolerance](https://www.tolerance.org/)  
 [United Nations](https://www.un.org/)  
 
 ## Pronouns
