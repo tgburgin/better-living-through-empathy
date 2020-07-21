@@ -1,14 +1,15 @@
-![Better Living Through Empathy](https://github.com/tgburgin/better-living-through-empathy/blob/main/images/logo.png)
-When it comes to interactions with people, but especially young children, phrasing things in a positive rather than negative manner can have a huge impact on the outcome. This is starting off as a list of negative to positive conversions to help make those interactions better.
+![Better Living Through Empathy](https://github.com/tgburgin/better-living-through-empathy/blob/main/images/logo.png)  
 
-Showing empathy towards the person also allows a greater connection to grow between you both, further encouraging the relationship to improve.
+We live in a society where empathy and tolerance are required and expected. We have a personal responsibility to do the right thing, to improve things, now and for the future.
+
+Showing empathy towards people allows closer and more intimate connections between you and them.
 
 [Equality](docs/equality.md)  
-A list of websites to further your knowledge on equality and tolerance.  
+Websites you can further your knowledge on equality and tolerance.  
   
 [Library](docs/library.md)  
-A list of websites to further your research on positive interactions.  
+From charities that support those in need to ideas of what to do in the great outdoors, the Library holds all sorts of useful information.
   
 [Negative to Positive](docs/negative-to-positive.md)  
-A list of phrases we can use to speak more positively to one another without changing the message.  
+A map of phrases we can use to speak more positively to one another without changing the message.  
   

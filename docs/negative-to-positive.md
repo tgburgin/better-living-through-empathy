@@ -17,3 +17,6 @@ We don't talk like that | &rarr; | We use kind words
 You're okay | &rarr; | How are you feeling?
 You're a good _pronoun_ | &rarr; | Thanks for helping
 I'm proud of you | &rarr; | You worked hard on that, you must be proud of yourself
+Calm down | &rarr; | How can I help you?
+Don't play with that | &rarr; | You can play with your toys
+Stop being noisy | &rarr; | You can be noisy outside or quiet inside
