@@ -8,6 +8,7 @@ A list of useful links to further your research.
 UK based charity dedicated to tackling child sexual abuse.  
 
 [Save The Children - Resource Centre](https://resourcecentre.savethechildren.net/)  
+Global group of charities dedicated to providing children with the platform to change their future world.  
 
 ## Education, Learning & Skills
 
@@ -17,7 +18,16 @@ Amazing content for all sorts of outdoors learning opportunities.
 ## Parenting
 
 [Janet Lansbury](https://www.janetlansbury.com/)  
-[Lisa Sunbury Gerber](https://www.regardingbaby.org/)  
+A brilliant resource of honest, positive parenting advice.  
+
+[Lisa Sunbury](https://www.regardingbaby.org/)  
+RIE certified (and ex-RIE director) parent teacher specialising in sensitive handling of childcare.  
+
 [Magda Gerber](https://www.magdagerber.org/)  
+The founder of RIE.  
+
 [Positive Discipline](https://www.positivediscipline.com/)  
+Respectful, encouraging and connected parenting skills.  
+
 [RIE (Resources for Infant Educarers)](https://www.rie.org/)  
+Encouraging responsible and authentic relationships between children and the people they meet.  
