@@ -7,7 +7,7 @@ A list of useful links to further your research.
 ## Table of Contents
 
 - [Charities](#charities)  
-- [Education, Learning & Skills](#education,-learning-&-skills)  
+- [Education, Learning & Skills](#education-learning-&-skills)  
 - [Parenting](#parenting)  
 
 ---  
