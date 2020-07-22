@@ -7,7 +7,7 @@ A list of useful links to further your research.
 ## Table of Contents
 
 - [Charities](#charities)  
-- [Education, Learning & Skills](#education-learning-&-skills)  
+- [Education and Learning](#education-and-learning)  
 - [Parenting](#parenting)  
 
 ---  
@@ -22,7 +22,7 @@ Global group of charities dedicated to providing children with the platform to c
 
 ---  
 
-### Education, Learning & Skills
+### Education and Learning
 
 [Natural Resources Wales - Learning Resources](https://naturalresources.wales/guidance-and-advice/business-sectors/education-learning-and-skills/looking-for-learning-resources/learning-resources-search-by-topic/?lang=en)  
 Amazing content for all sorts of outdoors learning opportunities.
