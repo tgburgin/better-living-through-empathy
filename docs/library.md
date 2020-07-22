@@ -4,6 +4,9 @@ A list of useful links to further your research.
 
 ## Charities
 
+[Lucy Faithfull](https://www.lucyfaithfull.org.uk/)  
+UK based charity dedicated to tackling child sexual abuse.  
+
 [Save The Children - Resource Centre](https://resourcecentre.savethechildren.net/)  
 
 ## Education, Learning & Skills
