@@ -14,6 +14,9 @@ A list of useful links to further your research.
 
 ### Charities
 
+[Islamic Relief](https://www.islamic-relief.org.uk/)  
+UK based charity dedicated to providing disaster and poverty relief.  
+
 [Lucy Faithfull](https://www.lucyfaithfull.org.uk/)  
 UK based charity dedicated to tackling child sexual abuse.  
 
