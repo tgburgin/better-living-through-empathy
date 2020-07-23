@@ -33,7 +33,11 @@ We live in a non-binary society.
 
 ### Race
 
-We live in a multi-racial society.
+We live in a multi-racial society.  
+[Black Lives Matter](https://blacklivesmatter.com/)  
+[Citizens Advice - Discrimination because of race](https://www.citizensadvice.org.uk/law-and-courts/discrimination/discrimination-because-of-race-religion-or-belief/discrimination-because-of-race/)  
+[London Bi Pandas - Anti Racism Hub](https://www.londonbipandas.com/antiracism)  
+[United Nations Human Rights - Combating Racial Discrimination](https://www.ohchr.org/EN/Issues/Discrimination/Pages/discrimination_racial.aspx)  
 
 ---  
 
@@ -52,6 +56,7 @@ Religion should not be an advantage nor a disadvantage.
 
 We live in a society where any person can love any other person or persons.  
 [Amnesty International - LGBT Rights](https://www.amnesty.org/en/what-we-do/discrimination/lgbt-rights/)  
+[London Bi Pandas](https://www.londonbipandas.com/)  
 [Sexual Rights Initiative](https://sexualrightsinitiative.com/)  
 
 ---  
