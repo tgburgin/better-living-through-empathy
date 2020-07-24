@@ -62,6 +62,7 @@ We live in a society where any person can love any other person or persons.
 [Sexual Rights Initiative](https://sexualrightsinitiative.com/)  
 [Stonewall](https://www.stonewall.org.uk/)  
 [Switchboard](https://switchboard.lgbt/)  
+
 ---  
 
 [Back to the top](#equality)
