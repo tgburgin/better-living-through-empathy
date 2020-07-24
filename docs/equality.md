@@ -56,9 +56,12 @@ Religion should not be an advantage nor a disadvantage.
 
 We live in a society where any person can love any other person or persons.  
 [Amnesty International - LGBT Rights](https://www.amnesty.org/en/what-we-do/discrimination/lgbt-rights/)  
+[GLAAD](https://www.glaad.org/)  
+[LGBT Foundation](http://www.lgbt.foundation/)  
 [London Bi Pandas](https://www.londonbipandas.com/)  
 [Sexual Rights Initiative](https://sexualrightsinitiative.com/)  
-
+[Stonewall](https://www.stonewall.org.uk/)  
+[Switchboard](https://switchboard.lgbt/)  
 ---  
 
 [Back to the top](#equality)
