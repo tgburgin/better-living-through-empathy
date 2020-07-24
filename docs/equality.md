@@ -8,7 +8,6 @@
 ## Table of Contents
 
 - [General](#general)  
-- [Pronouns](#pronouns)  
 - [Race](#race)  
 - [Religion](#religion)
 - [Sex and Sexuality](#sex-and-sexuality)
@@ -22,13 +21,6 @@
 [Teaching Tolerance](https://www.tolerance.org/)  
 [United Nations](https://www.un.org/)  
 
----  
-
-### Pronouns
-
-We live in a non-binary society.  
-[mypronouns.org](https://www.mypronouns.org/)  
-  
 ---  
 
 ### Race
@@ -54,11 +46,12 @@ Religion should not be an advantage nor a disadvantage.
 
 ### Sex and Sexuality
 
-We live in a society where any person can love any other person or persons.  
+We live in a non-binary society where any person can love any other person or persons.  
 [Amnesty International - LGBT Rights](https://www.amnesty.org/en/what-we-do/discrimination/lgbt-rights/)  
 [GLAAD](https://www.glaad.org/)  
 [LGBT Foundation](http://www.lgbt.foundation/)  
 [London Bi Pandas](https://www.londonbipandas.com/)  
+[mypronouns.org](https://www.mypronouns.org/)  
 [Sexual Rights Initiative](https://sexualrightsinitiative.com/)  
 [Stonewall](https://www.stonewall.org.uk/)  
 [Switchboard](https://switchboard.lgbt/)  
