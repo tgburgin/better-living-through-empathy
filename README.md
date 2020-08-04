@@ -13,6 +13,6 @@ From charities that support those in need to ideas of what to do in the great ou
 [Negative to Positive](docs/negative-to-positive.md)  
 A map of phrases we can use to speak more positively to one another without changing the message.  
   
-[What is Empathy?](docs/what-is-empathy.md)
+[What is Empathy?](docs/what-is-empathy.md)  
 Exploring what empathy means and what you can do to improve your responses to others.  
   
